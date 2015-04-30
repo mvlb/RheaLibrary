@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>93E5DC37-FF54-4373-9130-244FB8317936</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC8F0051E0B3BEF4F1C393136FE37548B467615F</key>
+		<string>https://github.com/mvlb/RheaLibrary.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RheaObjC/RheaObjC.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC8F0051E0B3BEF4F1C393136FE37548B467615F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mvlb/RheaLibrary.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC8F0051E0B3BEF4F1C393136FE37548B467615F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC8F0051E0B3BEF4F1C393136FE37548B467615F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RheaLibrary</string>
+		</dict>
+	</array>
+</dict>
+</plist>
